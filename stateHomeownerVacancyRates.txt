@@ -1,0 +1,642 @@
+_
+Alabama_1: 2.4 Alabama_3: 2.7 Alabama_5: 2.3 Alabama_7: 2.5 _
+Alaska_1: 1.4 Alaska_3: 1.1 Alaska_5: 1.3 Alaska_7: 1.3 _
+Arizona_1: 2.2 Arizona_3: 1.4 Arizona_5: 1.9 Arizona_7: 1.6 _
+Arkansas_1: 3.1 Arkansas_3: 3.4 Arkansas_5: 3.5 Arkansas_7: 3.4 _
+California_1: 1.0 California_3: 1.0 California_5: 1.1 California_7: 1.1 _
+Colorado_1: 0.5 Colorado_3: 0.7 Colorado_5: 1.6 Colorado_7: 1.1 _
+Connecticut_1: 1.9 Connecticut_3: 2.9 Connecticut_5: 1.7 Connecticut_7: 1.8 _
+Delaware_1: 1.8 Delaware_3: 2.0 Delaware_5: 2.2 Delaware_7: 2.4 _
+District of Columbia_1: 1.4 District of Columbia_3: 1.1 District of Columbia_5: 1.5 District of Columbia_7: 2.2 _
+Florida_1: 2.3 Florida_3: 2.3 Florida_5: 2.3 Florida_7: 1.9 _
+Georgia_1: 1.9 Georgia_3: 1.9 Georgia_5: 1.4 Georgia_7: 1.9 _
+Hawaii_1: 1.3 Hawaii_3: 1.8 Hawaii_5: 1.2 Hawaii_7: 1.3 _
+Idaho_1: 1.5 Idaho_3: 1.9 Idaho_5: 1.7 Idaho_7: 1.6 _
+Illinois_1: 2.5 Illinois_3: 1.8 Illinois_5: 2.0 Illinois_7: 2.4 _
+Indiana_1: 1.9 Indiana_3: 2.0 Indiana_5: 1.6 Indiana_7: 1.1 _
+Iowa_1: 1.0 Iowa_3: 1.6 Iowa_5: 0.8 Iowa_7: 1.1 _
+Kansas_1: 1.1 Kansas_3: 1.8 Kansas_5: 2.3 Kansas_7: 1.2 _
+Kentucky_1: 1.7 Kentucky_3: 1.9 Kentucky_5: 1.3 Kentucky_7: 2.8 _
+Louisiana_1: 1.7 Louisiana_3: 2.1 Louisiana_5: 2.1 Louisiana_7: 2.6 _
+Maine_1: 2.0 Maine_3: 2.4 Maine_5: 3.0 Maine_7: 1.0 _
+Maryland_1: 1.6 Maryland_3: 1.4 Maryland_5: 2.3 Maryland_7: 3.9 _
+Massachusetts_1: 1.7 Massachusetts_3: 1.2 Massachusetts_5: 1.3 Massachusetts_7: 0.7 _
+Michigan_1: 1.4 Michigan_3: 1.2 Michigan_5: 1.1 Michigan_7: 1.5 _
+Minnesota_1: 1.6 Minnesota_3: 0.7 Minnesota_5: 0.7 Minnesota_7: 0.8 _
+Mississippi_1: 1.9 Mississippi_3: 1.7 Mississippi_5: 2.8 Mississippi_7: 2.3 _
+Missouri_1: 2.7 Missouri_3: 2.8 Missouri_5: 1.9 Missouri_7: 1.7 _
+Montana_1: 2.1 Montana_3: 2.3 Montana_5: 2.0 Montana_7: 1.9 _
+Nebraska_1: 1.1 Nebraska_3: 0.9 Nebraska_5: 1.2 Nebraska_7: 1.1 _
+Nevada_1: 2.1 Nevada_3: 2.2 Nevada_5: 1.5 Nevada_7: 1.6 _
+New Hampshire_1: 1.9 New Hampshire_3: 1.6 New Hampshire_5: 1.2 New Hampshire_7: 1.7 _
+New Jersey_1: 1.8 New Jersey_3: 1.9 New Jersey_5: 2.2 New Jersey_7: 2.7 _
+New Mexico_1: 2.3 New Mexico_3: 1.8 New Mexico_5: 2.1 New Mexico_7: 1.8 _
+New York_1: 2.2 New York_3: 2.1 New York_5: 1.5 New York_7: 2.3 _
+North Carolina_1: 1.6 North Carolina_3: 1.7 North Carolina_5: 2.6 North Carolina_7: 2.6 _
+North Dakota_1: 1.2 North Dakota_3: 1.6 North Dakota_5: 2.7 North Dakota_7: 1.8 _
+Ohio_1: 1.3 Ohio_3: 1.5 Ohio_5: 1.3 Ohio_7: 2.0 _
+Oklahoma_1: 2.4 Oklahoma_3: 1.6 Oklahoma_5: 2.3 Oklahoma_7: 1.7 _
+Oregon_1: 1.1 Oregon_3: 1.1 Oregon_5: 1.9 Oregon_7: 1.6 _
+Pennsylvania_1: 1.6 Pennsylvania_3: 1.6 Pennsylvania_5: 2.0 Pennsylvania_7: 1.5 _
+Rhode Island_1: 1.4 Rhode Island_3: 1.0 Rhode Island_5: 1.0 Rhode Island_7: 0.9 _
+South Carolina_1: 2.0 South Carolina_3: 2.4 South Carolina_5: 1.5 South Carolina_7: 2.0 _
+South Dakota_1: 0.4 South Dakota_3: 0.6 South Dakota_5: 1.2 South Dakota_7: 1.1 _
+Tennessee_1: 1.8 Tennessee_3: 1.7 Tennessee_5: 1.5 Tennessee_7: 1.7 _
+Texas_1: 1.8 Texas_3: 1.9 Texas_5: 1.9 Texas_7: 1.7 _
+Utah_1: 0.7 Utah_3: 0.6 Utah_5: 1.1 Utah_7: 1.2 _
+Vermont_1: 1.3 Vermont_3: 0.9 Vermont_5: 1.6 Vermont_7: 2.5 _
+Virginia_1: 1.8 Virginia_3: 2.5 Virginia_5: 2.2 Virginia_7: 2.7 _
+Washington_1: 0.8 Washington_3: 1.2 Washington_5: 2.1 Washington_7: 1.2 _
+West Virginia_1: 1.9 West Virginia_3: 0.9 West Virginia_5: 1.7 West Virginia_7: 2.0 _
+Wisconsin_1: 1.0 Wisconsin_3: 1.7 Wisconsin_5: 1.6 Wisconsin_7: 1.7 _
+Wyoming_1: 1.3 Wyoming_3: 2.1 Wyoming_5: 2.6 Wyoming_7: 2.8 _
+_
+State_1: First         Quarter       2015 State_3: Second         Quarter       2015 State_5: Third         Quarter       2015 State_7: Fourth         Quarter       2015 _
+Alabama_1: 3.7 Alabama_3: 2.4 Alabama_5: 2.1 Alabama_7: 2.6 _
+Alaska_1: 2.3 Alaska_3: 1.9 Alaska_5: 1.2 Alaska_7: 2.3 _
+Arizona_1: 1.7 Arizona_3: 2.7 Arizona_5: 2.0 Arizona_7: 2.1 _
+Arkansas_1: 3.0 Arkansas_3: 3.5 Arkansas_5: 2.0 Arkansas_7: 2.3 _
+California_1: 1.1 California_3: 1.1 California_5: 1.3 California_7: 1.3 _
+Colorado_1: 0.5 Colorado_3: 1.1 Colorado_5: 0.9 Colorado_7: 2.0 _
+Connecticut_1: 1.1 Connecticut_3: 1.7 Connecticut_5: 2.5 Connecticut_7: 2.2 _
+Delaware_1: 2.2 Delaware_3: 1.9 Delaware_5: 1.3 Delaware_7: 1.9 _
+District of Columbia_1: 1.3 District of Columbia_3: 1.4 District of Columbia_5: 1.8 District of Columbia_7: 1.8 _
+Florida_1: 2.2 Florida_3: 1.9 Florida_5: 2.6 Florida_7: 2.7 _
+Georgia_1: 2.9 Georgia_3: 3.1 Georgia_5: 2.5 Georgia_7: 2.0 _
+Hawaii_1: 0.9 Hawaii_3: 1.7 Hawaii_5: 1.9 Hawaii_7: 1.4 _
+Idaho_1: 1.0 Idaho_3: 1.5 Idaho_5: 1.6 Idaho_7: 1.5 _
+Illinois_1: 3.0 Illinois_3: 2.2 Illinois_5: 1.9 Illinois_7: 1.8 _
+Indiana_1: 2.2 Indiana_3: 2.0 Indiana_5: 2.3 Indiana_7: 1.8 _
+Iowa_1: 0.9 Iowa_3: 0.9 Iowa_5: 0.9 Iowa_7: 0.5 _
+Kansas_1: 1.8 Kansas_3: 1.3 Kansas_5: 1.6 Kansas_7: 1.6 _
+Kentucky_1: 1.9 Kentucky_3: 2.6 Kentucky_5: 1.2 Kentucky_7: 1.9 _
+Louisiana_1: 2.4 Louisiana_3: 2.4 Louisiana_5: 2.6 Louisiana_7: 1.5 _
+Maine_1: 2.0 Maine_3: 2.1 Maine_5: 3.2 Maine_7: 1.7 _
+Maryland_1: 2.2 Maryland_3: 2.3 Maryland_5: 1.5 Maryland_7: 1.9 _
+Massachusetts_1: 1.0 Massachusetts_3: 1.2 Massachusetts_5: 1.9 Massachusetts_7: 1.4 _
+Michigan_1: 1.8 Michigan_3: 1.2 Michigan_5: 1.5 Michigan_7: 1.6 _
+Minnesota_1: 0.7 Minnesota_3: 1.0 Minnesota_5: 1.1 Minnesota_7: 1.2 _
+Mississippi_1: 2.2 Mississippi_3: 2.1 Mississippi_5: 2.0 Mississippi_7: 1.9 _
+Missouri_1: 2.6 Missouri_3: 2.7 Missouri_5: 3.2 Missouri_7: 3.1 _
+Montana_1: 2.2 Montana_3: 1.6 Montana_5: 1.7 Montana_7: 1.3 _
+Nebraska_1: 1.1 Nebraska_3: 1.2 Nebraska_5: 0.8 Nebraska_7: 1.1 _
+Nevada_1: 2.9 Nevada_3: 2.3 Nevada_5: 2.2 Nevada_7: 1.7 _
+New Hampshire_1: 1.2 New Hampshire_3: 1.7 New Hampshire_5: 2.2 New Hampshire_7: 2.3 _
+New Jersey_1: 1.8 New Jersey_3: 1.8 New Jersey_5: 1.4 New Jersey_7: 1.4 _
+New Mexico_1: 1.9 New Mexico_3: 3.5 New Mexico_5: 3.0 New Mexico_7: 2.6 _
+New York_1: 2.2 New York_3: 1.9 New York_5: 1.6 New York_7: 2.4 _
+North Carolina_1: 2.8 North Carolina_3: 2.6 North Carolina_5: 2.6 North Carolina_7: 2.6 _
+North Dakota_1: 1.6 North Dakota_3: 1.8 North Dakota_5: 2.4 North Dakota_7: 0.9 _
+Ohio_1: 1.6 Ohio_3: 2.1 Ohio_5: 1.5 Ohio_7: 2.0 _
+Oklahoma_1: 1.3 Oklahoma_3: 1.6 Oklahoma_5: 2.2 Oklahoma_7: 2.3 _
+Oregon_1: 0.8 Oregon_3: 1.3 Oregon_5: 2.2 Oregon_7: 1.6 _
+Pennsylvania_1: 2.1 Pennsylvania_3: 2.0 Pennsylvania_5: 2.4 Pennsylvania_7: 2.2 _
+Rhode Island_1: 1.1 Rhode Island_3: 1.6 Rhode Island_5: 2.6 Rhode Island_7: 2.2 _
+South Carolina_1: 2.0 South Carolina_3: 2.2 South Carolina_5: 2.4 South Carolina_7: 1.8 _
+South Dakota_1: 1.1 South Dakota_3: 1.3 South Dakota_5: 1.6 South Dakota_7: 0.4 _
+Tennessee_1: 2.7 Tennessee_3: 2.9 Tennessee_5: 2.2 Tennessee_7: 2.0 _
+Texas_1: 1.6 Texas_3: 1.4 Texas_5: 1.5 Texas_7: 1.6 _
+Utah_1: 1.0 Utah_3: 0.8 Utah_5: 1.7 Utah_7: 1.1 _
+Vermont_1: 1.9 Vermont_3: 1.9 Vermont_5: 2.0 Vermont_7: 2.1 _
+Virginia_1: 1.5 Virginia_3: 1.5 Virginia_5: 1.6 Virginia_7: 1.7 _
+Washington_1: 1.2 Washington_3: 1.0 Washington_5: 1.1 Washington_7: 1.6 _
+West Virginia_1: 2.2 West Virginia_3: 1.9 West Virginia_5: 1.5 West Virginia_7: 1.7 _
+Wisconsin_1: 0.8 Wisconsin_3: 0.9 Wisconsin_5: 1.7 Wisconsin_7: 1.5 _
+Wyoming_1: 1.2 Wyoming_3: 1.2 Wyoming_5: 1.6 Wyoming_7: 1.1 _
+_
+State_1: Margin of Error State_3: Margin of Error State_1: First State_3: Third State_1: Quarter State_3: Quarter State_1: 2014 State_3: 2014 _
+Alabama_1: 3.3 Alabama_3: 2.1 Alabama_5: 1.7 Alabama_7: 3.1 _
+Alaska_1: 2.7 Alaska_3: 2.0 Alaska_5: 2.0 Alaska_7: 2.1 _
+Arizona_1: 3.3 Arizona_3: 3.4 Arizona_5: 2.3 Arizona_7: 1.9 _
+Arkansas_1: 3.6 Arkansas_3: 3.4 Arkansas_5: 3.0 Arkansas_7: 3.0 _
+California_1: 1.2 California_3: 1.3 California_5: 1.1 California_7: 1.0 _
+Colorado_1: 0.6 Colorado_3: 1.7 Colorado_5: 1.6 Colorado_7: 0.9 _
+Connecticut_1: 1.9 Connecticut_3: 1.0 Connecticut_5: 1.4 Connecticut_7: 1.1 _
+Delaware_1: 1.8 Delaware_3: 1.0 Delaware_5: 2.2 Delaware_7: 2.0 _
+District of Columbia_1: 1.4 District of Columbia_3: 1.3 District of Columbia_5: 1.7 District of Columbia_7: 2.0 _
+Florida_1: 2.5 Florida_3: 2.4 Florida_5: 2.3 Florida_7: 2.8 _
+Georgia_1: 2.5 Georgia_3: 3.4 Georgia_5: 3.2 Georgia_7: 2.2 _
+Hawaii_1: 2.3 Hawaii_3: 1.5 Hawaii_5: 1.1 Hawaii_7: 1.5 _
+Idaho_1: 1.7 Idaho_3: 3.1 Idaho_5: 2.8 Idaho_7: 2.0 _
+Illinois_1: 3.0 Illinois_3: 2.4 Illinois_5: 1.8 Illinois_7: 1.9 _
+Indiana_1: 2.0 Indiana_3: 1.9 Indiana_5: 2.8 Indiana_7: 2.6 _
+Iowa_1: 2.4 Iowa_3: 1.6 Iowa_5: 1.9 Iowa_7: 2.0 _
+Kansas_1: 2.2 Kansas_3: 1.6 Kansas_5: 2.4 Kansas_7: 2.5 _
+Kentucky_1: 2.6 Kentucky_3: 3.4 Kentucky_5: 2.2 Kentucky_7: 1.3 _
+Louisiana_1: 2.1 Louisiana_3: 1.9 Louisiana_5: 2.2 Louisiana_7: 2.0 _
+Maine_1: 1.8 Maine_3: 2.3 Maine_5: 1.7 Maine_7: 1.7 _
+Maryland_1: 2.0 Maryland_3: 1.1 Maryland_5: 0.9 Maryland_7: 1.6 _
+Massachusetts_1: 1.8 Massachusetts_3: 1.3 Massachusetts_5: 1.0 Massachusetts_7: 1.0 _
+Michigan_1: 1.9 Michigan_3: 1.3 Michigan_5: 1.2 Michigan_7: 1.7 _
+Minnesota_1: 1.0 Minnesota_3: 1.5 Minnesota_5: 1.4 Minnesota_7: 1.8 _
+Mississippi_1: 2.7 Mississippi_3: 2.0 Mississippi_5: 2.8 Mississippi_7: 2.3 _
+Missouri_1: 2.2 Missouri_3: 1.8 Missouri_5: 2.5 Missouri_7: 1.2 _
+Montana_1: 2.2 Montana_3: 1.6 Montana_5: 1.4 Montana_7: 1.3 _
+Nebraska_1: 1.0 Nebraska_3: 1.4 Nebraska_5: 1.9 Nebraska_7: 0.9 _
+Nevada_1: 2.8 Nevada_3: 1.7 Nevada_5: 2.4 Nevada_7: 3.6 _
+New Hampshire_1: 1.8 New Hampshire_3: 2.0 New Hampshire_5: 1.8 New Hampshire_7: 1.6 _
+New Jersey_1: 1.7 New Jersey_3: 1.7 New Jersey_5: 1.4 New Jersey_7: 1.6 _
+New Mexico_1: 3.1 New Mexico_3: 1.2 New Mexico_5: 2.1 New Mexico_7: 1.9 _
+New York_1: 1.5 New York_3: 1.4 New York_5: 1.7 New York_7: 2.2 _
+North Carolina_1: 2.3 North Carolina_3: 2.0 North Carolina_5: 1.6 North Carolina_7: 3.0 _
+North Dakota_1: 1.0 North Dakota_3: 0.8 North Dakota_5: 0.7 North Dakota_7: 1.4 _
+Ohio_1: 1.9 Ohio_3: 1.4 Ohio_5: 1.6 Ohio_7: 1.4 _
+Oklahoma_1: 2.1 Oklahoma_3: 2.5 Oklahoma_5: 1.8 Oklahoma_7: 1.1 _
+Oregon_1: 2.0 Oregon_3: 1.8 Oregon_5: 1.8 Oregon_7: 1.5 _
+Pennsylvania_1: 2.1 Pennsylvania_3: 2.2 Pennsylvania_5: 1.7 Pennsylvania_7: 2.7 _
+Rhode Island_1: 1.3 Rhode Island_3: 1.1 Rhode Island_5: 1.8 Rhode Island_7: 1.6 _
+South Carolina_1: 2.9 South Carolina_3: 2.0 South Carolina_5: 2.8 South Carolina_7: 3.0 _
+South Dakota_1: 0.9 South Dakota_3: 1.5 South Dakota_5: 1.2 South Dakota_7: 1.1 _
+Tennessee_1: 2.2 Tennessee_3: 2.9 Tennessee_5: 2.3 Tennessee_7: 1.9 _
+Texas_1: 1.4 Texas_3: 1.4 Texas_5: 1.5 Texas_7: 1.6 _
+Utah_1: 1.6 Utah_3: 0.9 Utah_5: 2.3 Utah_7: 1.2 _
+Vermont_1: 1.5 Vermont_3: 1.8 Vermont_5: 2.5 Vermont_7: 1.6 _
+Virginia_1: 1.4 Virginia_3: 1.3 Virginia_5: 1.8 Virginia_7: 2.3 _
+Washington_1: 2.1 Washington_3: 1.9 Washington_5: 1.2 Washington_7: 1.3 _
+West Virginia_1: 2.1 West Virginia_3: 1.5 West Virginia_5: 2.2 West Virginia_7: 2.7 _
+Wisconsin_1: 1.6 Wisconsin_3: 1.8 Wisconsin_5: 2.0 Wisconsin_7: 1.3 _
+Wyoming_1: 1.8 Wyoming_3: 1.7 Wyoming_5: 1.4 Wyoming_7: 1.5 _
+_
+State_1: Margin of Error State_3: Margin of Error State_1: First State_3: Third State_1: Quarter State_3: Quarter State_1: 2013 State_3: 2013 _
+Alabama_1: 1.5 Alabama_3: 1.7 Alabama_5: 2.5 Alabama_7: 2.3 _
+Alaska_1: 1.4 Alaska_3: 1.9 Alaska_5: 1.7 Alaska_7: 1.7 _
+Arizona_1: 2.1 Arizona_3: 2.2 Arizona_5: 2.2 Arizona_7: 2.9 _
+Arkansas_1: 2.9 Arkansas_3: 3.5 Arkansas_5: 2.3 Arkansas_7: 3.5 _
+California_1: 1.4 California_3: 1.1 California_5: 1.3 California_7: 1.1 _
+Colorado_1: 1.6 Colorado_3: 1.3 Colorado_5: 1.6 Colorado_7: 1.0 _
+Connecticut_1: 1.5 Connecticut_3: 2.2 Connecticut_5: 1.3 Connecticut_7: 2.1 _
+Delaware_1: 2.9 Delaware_3: 2.5 Delaware_5: 2.2 Delaware_7: 1.8 _
+District of Columbia_1: 1.9 District of Columbia_3: 1.0 District of Columbia_5: 2.2 District of Columbia_7: 2.3 _
+Florida_1: 2.5 Florida_3: 2.4 Florida_5: 2.4 Florida_7: 2.4 _
+Georgia_1: 2.7 Georgia_3: 2.9 Georgia_5: 2.4 Georgia_7: 2.2 _
+Hawaii_1: 1.9 Hawaii_3: 1.6 Hawaii_5: 2.0 Hawaii_7: 1.5 _
+Idaho_1: 2.0 Idaho_3: 1.5 Idaho_5: 1.2 Idaho_7: 1.6 _
+Illinois_1: 2.6 Illinois_3: 2.1 Illinois_5: 2.9 Illinois_7: 3.3 _
+Indiana_1: 2.7 Indiana_3: 2.0 Indiana_5: 2.3 Indiana_7: 2.6 _
+Iowa_1: 2.2 Iowa_3: 1.8 Iowa_5: 1.3 Iowa_7: 2.1 _
+Kansas_1: 2.6 Kansas_3: 1.5 Kansas_5: 1.4 Kansas_7: 1.2 _
+Kentucky_1: 2.2 Kentucky_3: 2.1 Kentucky_5: 1.7 Kentucky_7: 2.1 _
+Louisiana_1: 2.1 Louisiana_3: 1.5 Louisiana_5: 3.1 Louisiana_7: 2.6 _
+Maine_1: 2.1 Maine_3: 1.7 Maine_5: 1.8 Maine_7: 2.0 _
+Maryland_1: 1.9 Maryland_3: 1.9 Maryland_5: 1.5 Maryland_7: 2.1 _
+Massachusetts_1: 2.4 Massachusetts_3: 1.5 Massachusetts_5: 1.3 Massachusetts_7: 1.4 _
+Michigan_1: 1.9 Michigan_3: 2.2 Michigan_5: 1.6 Michigan_7: 2.6 _
+Minnesota_1: 1.0 Minnesota_3: 1.1 Minnesota_5: 1.2 Minnesota_7: 1.0 _
+Mississippi_1: 1.8 Mississippi_3: 3.4 Mississippi_5: 1.8 Mississippi_7: 2.2 _
+Missouri_1: 2.7 Missouri_3: 3.0 Missouri_5: 3.3 Missouri_7: 2.9 _
+Montana_1: 1.0 Montana_3: 2.5 Montana_5: 1.5 Montana_7: 1.0 _
+Nebraska_1: 1.4 Nebraska_3: 1.2 Nebraska_5: 1.7 Nebraska_7: 1.3 _
+Nevada_1: 2.2 Nevada_3: 3.1 Nevada_5: 2.7 Nevada_7: 3.8 _
+New Hampshire_1: 1.8 New Hampshire_3: 2.2 New Hampshire_5: 2.3 New Hampshire_7: 2.1 _
+New Jersey_1: 1.8 New Jersey_3: 3.2 New Jersey_5: 2.1 New Jersey_7: 1.9 _
+New Mexico_1: 1.9 New Mexico_3: 2.1 New Mexico_5: 2.8 New Mexico_7: 3.1 _
+New York_1: 1.9 New York_3: 1.3 New York_5: 1.2 New York_7: 2.3 _
+North Carolina_1: 2.6 North Carolina_3: 2.4 North Carolina_5: 2.7 North Carolina_7: 2.6 _
+North Dakota_1: 1.1 North Dakota_3: 1.3 North Dakota_5: 1.1 North Dakota_7: 0.9 _
+Ohio_1: 2.4 Ohio_3: 1.9 Ohio_5: 1.7 Ohio_7: 1.7 _
+Oklahoma_1: 2.4 Oklahoma_3: 2.6 Oklahoma_5: 1.8 Oklahoma_7: 2.3 _
+Oregon_1: 1.6 Oregon_3: 2.2 Oregon_5: 1.7 Oregon_7: 2.0 _
+Pennsylvania_1: 2.0 Pennsylvania_3: 1.6 Pennsylvania_5: 1.7 Pennsylvania_7: 2.1 _
+Rhode Island_1: 1.3 Rhode Island_3: 1.2 Rhode Island_5: 1.3 Rhode Island_7: 1.5 _
+South Carolina_1: 3.3 South Carolina_3: 2.8 South Carolina_5: 2.1 South Carolina_7: 2.1 _
+South Dakota_1: 1.5 South Dakota_3: 1.3 South Dakota_5: 0.9 South Dakota_7: 0.8 _
+Tennessee_1: 2.0 Tennessee_3: 1.4 Tennessee_5: 1.9 Tennessee_7: 2.6 _
+Texas_1: 3.0 Texas_3: 1.6 Texas_5: 1.9 Texas_7: 1.7 _
+Utah_1: 0.8 Utah_3: 1.8 Utah_5: 1.3 Utah_7: 1.5 _
+Vermont_1: 1.9 Vermont_3: 2.3 Vermont_5: 1.6 Vermont_7: 1.1 _
+Virginia_1: 2.1 Virginia_3: 1.7 Virginia_5: 2.2 Virginia_7: 1.9 _
+Washington_1: 0.9 Washington_3: 2.2 Washington_5: 1.7 Washington_7: 1.4 _
+West Virginia_1: 1.7 West Virginia_3: 1.2 West Virginia_5: 2.3 West Virginia_7: 2.0 _
+Wisconsin_1: 1.0 Wisconsin_3: 1.0 Wisconsin_5: 1.3 Wisconsin_7: 1.6 _
+Wyoming_1: 1.5 Wyoming_3: 1.4 Wyoming_5: 1.7 Wyoming_7: 1.9 _
+_
+State_1: Margin of Error State_3: Margin of Error State_1: First State_3: Third State_1: Quarter State_3: Quarter State_1: 2012 State_3: 2012 _
+Alabama_1: 2.3 Alabama_3: 2.4 Alabama_5: 2.2 Alabama_7: 1.5 _
+Alaska_1: 1.1 Alaska_3: 1.0 Alaska_5: 1.5 Alaska_7: 1.9 _
+Arizona_1: 2.4 Arizona_3: 2.8 Arizona_5: 2.0 Arizona_7: 2.5 _
+Arkansas_1: 3.0 Arkansas_3: 3.7 Arkansas_5: 3.2 Arkansas_7: 3.3 _
+California_1: 2.0 California_3: 1.8 California_5: 1.4 California_7: 1.4 _
+Colorado_1: 2.1 Colorado_3: 1.8 Colorado_5: 1.5 Colorado_7: 1.3 _
+Connecticut_1: 2.3 Connecticut_3: 1.4 Connecticut_5: 1.6 Connecticut_7: 1.4 _
+Delaware_1: 2.6 Delaware_3: 2.7 Delaware_5: 1.4 Delaware_7: 1.6 _
+District of Columbia_1: 1.9 District of Columbia_3: 1.3 District of Columbia_5: 2.0 District of Columbia_7: 2.4 _
+Florida_1: 2.7 Florida_3: 1.9 Florida_5: 2.1 Florida_7: 2.2 _
+Georgia_1: 3.0 Georgia_3: 3.1 Georgia_5: 3.1 Georgia_7: 1.8 _
+Hawaii_1: 2.6 Hawaii_3: 3.4 Hawaii_5: 1.5 Hawaii_7: 1.7 _
+Idaho_1: 2.6 Idaho_3: 2.3 Idaho_5: 2.6 Idaho_7: 1.2 _
+Illinois_1: 2.7 Illinois_3: 2.7 Illinois_5: 2.7 Illinois_7: 3.1 _
+Indiana_1: 2.2 Indiana_3: 2.4 Indiana_5: 2.0 Indiana_7: 1.8 _
+Iowa_1: 2.4 Iowa_3: 2.5 Iowa_5: 2.2 Iowa_7: 1.9 _
+Kansas_1: 1.8 Kansas_3: 2.0 Kansas_5: 1.6 Kansas_7: 2.5 _
+Kentucky_1: 2.2 Kentucky_3: 2.1 Kentucky_5: 1.6 Kentucky_7: 2.2 _
+Louisiana_1: 2.1 Louisiana_3: 1.4 Louisiana_5: 2.1 Louisiana_7: 1.7 _
+Maine_1: 1.3 Maine_3: 2.1 Maine_5: 2.1 Maine_7: 1.9 _
+Maryland_1: 2.5 Maryland_3: 2.2 Maryland_5: 1.4 Maryland_7: 1.4 _
+Massachusetts_1: 1.2 Massachusetts_3: 1.5 Massachusetts_5: 2.3 Massachusetts_7: 1.5 _
+Michigan_1: 1.9 Michigan_3: 1.9 Michigan_5: 1.5 Michigan_7: 1.2 _
+Minnesota_1: 1.8 Minnesota_3: 1.7 Minnesota_5: 1.5 Minnesota_7: 1.8 _
+Mississippi_1: 1.7 Mississippi_3: 1.5 Mississippi_5: 1.6 Mississippi_7: 2.0 _
+Missouri_1: 2.7 Missouri_3: 3.6 Missouri_5: 1.7 Missouri_7: 1.4 _
+Montana_1: 1.1 Montana_3: 2.3 Montana_5: 2.0 Montana_7: 1.3 _
+Nebraska_1: 1.3 Nebraska_3: 0.9 Nebraska_5: 1.3 Nebraska_7: 1.6 _
+Nevada_1: 2.1 Nevada_3: 3.7 Nevada_5: 3.4 Nevada_7: 4.4 _
+New Hampshire_1: 2.1 New Hampshire_3: 2.0 New Hampshire_5: 2.1 New Hampshire_7: 1.9 _
+New Jersey_1: 1.3 New Jersey_3: 1.6 New Jersey_5: 2.8 New Jersey_7: 2.6 _
+New Mexico_1: 1.2 New Mexico_3: 2.4 New Mexico_5: 2.4 New Mexico_7: 2.2 _
+New York_1: 2.4 New York_3: 1.9 New York_5: 1.7 New York_7: 1.9 _
+North Carolina_1: 2.1 North Carolina_3: 2.5 North Carolina_5: 2.3 North Carolina_7: 2.7 _
+North Dakota_1: 1.3 North Dakota_3: 1.1 North Dakota_5: 1.5 North Dakota_7: 1.7 _
+Ohio_1: 2.0 Ohio_3: 1.5 Ohio_5: 1.4 Ohio_7: 1.8 _
+Oklahoma_1: 2.4 Oklahoma_3: 2.5 Oklahoma_5: 1.7 Oklahoma_7: 2.7 _
+Oregon_1: 2.3 Oregon_3: 3.7 Oregon_5: 1.6 Oregon_7: 1.2 _
+Pennsylvania_1: 1.5 Pennsylvania_3: 1.7 Pennsylvania_5: 1.6 Pennsylvania_7: 1.9 _
+Rhode Island_1: 3.2 Rhode Island_3: 1.6 Rhode Island_5: 1.5 Rhode Island_7: 0.8 _
+South Carolina_1: 2.4 South Carolina_3: 2.3 South Carolina_5: 1.8 South Carolina_7: 1.7 _
+South Dakota_1: 1.2 South Dakota_3: 1.0 South Dakota_5: 0.7 South Dakota_7: 1.3 _
+Tennessee_1: 3.3 Tennessee_3: 2.9 Tennessee_5: 1.9 Tennessee_7: 2.3 _
+Texas_1: 1.9 Texas_3: 1.4 Texas_5: 2.2 Texas_7: 2.5 _
+Utah_1: 1.8 Utah_3: 1.1 Utah_5: 1.7 Utah_7: 1.4 _
+Vermont_1: 2.0 Vermont_3: 1.8 Vermont_5: 1.2 Vermont_7: 1.5 _
+Virginia_1: 2.2 Virginia_3: 2.3 Virginia_5: 1.6 Virginia_7: 1.7 _
+Washington_1: 2.3 Washington_3: 2.2 Washington_5: 2.0 Washington_7: 1.5 _
+West Virginia_1: 2.1 West Virginia_3: 1.6 West Virginia_5: 1.6 West Virginia_7: 2.8 _
+Wisconsin_1: 1.7 Wisconsin_3: 1.8 Wisconsin_5: 1.7 Wisconsin_7: 0.9 _
+Wyoming_1: 1.2 Wyoming_3: 1.5 Wyoming_5: 1.3 Wyoming_7: 1.5 _
+_
+State_1: Margin of Error State_3: Margin of Error State_1: First State_3: Third State_1: Quarter State_3: Quarter State_1: 2011 State_3: 2011 _
+Alabama_1: 2.9 Alabama_3: 2.6 Alabama_5: 3.4 Alabama_7: 2.4 _
+Alaska_1: 1.3 Alaska_3: 0.7 Alaska_5: 1.7 Alaska_7: 1.5 _
+Arizona_1: 3.3 Arizona_3: 3.8 Arizona_5: 2.6 Arizona_7: 3.2 _
+Arkansas_1: 2.5 Arkansas_3: 4.7 Arkansas_5: 2.5 Arkansas_7: 2.6 _
+California_1: 2.2 California_3: 2.3 California_5: 2.1 California_7: 1.8 _
+Colorado_1: 2.2 Colorado_3: 2.7 Colorado_5: 2.8 Colorado_7: 1.8 _
+Connecticut_1: 3.1 Connecticut_3: 2.4 Connecticut_5: 1.6 Connecticut_7: 1.6 _
+Delaware_1: 2.3 Delaware_3: 2.4 Delaware_5: 2.6 Delaware_7: 3.5 _
+District of Columbia_1: 1.1 District of Columbia_3: 1.5 District of Columbia_5: 1.2 District of Columbia_7: 1.9 _
+Florida_1: 3.8 Florida_3: 2.9 Florida_5: 3.2 Florida_7: 3.2 _
+Georgia_1: 3.3 Georgia_3: 4.6 Georgia_5: 3.6 Georgia_7: 2.9 _
+Hawaii_1: 1.3 Hawaii_3: 2.0 Hawaii_5: 3.0 Hawaii_7: 2.5 _
+Idaho_1: 4.4 Idaho_3: 4.7 Idaho_5: 3.7 Idaho_7: 2.5 _
+Illinois_1: 3.4 Illinois_3: 3.1 Illinois_5: 3.5 Illinois_7: 3.5 _
+Indiana_1: 2.7 Indiana_3: 2.9 Indiana_5: 2.3 Indiana_7: 2.6 _
+Iowa_1: 1.8 Iowa_3: 2.4 Iowa_5: 2.3 Iowa_7: 3.1 _
+Kansas_1: 2.1 Kansas_3: 1.7 Kansas_5: 2.7 Kansas_7: 2.0 _
+Kentucky_1: 2.1 Kentucky_3: 2.4 Kentucky_5: 2.2 Kentucky_7: 2.1 _
+Louisiana_1: 1.5 Louisiana_3: 1.4 Louisiana_5: 1.5 Louisiana_7: 2.5 _
+Maine_1: 1.9 Maine_3: 2.4 Maine_5: 3.0 Maine_7: 1.7 _
+Maryland_1: 3.8 Maryland_3: 2.5 Maryland_5: 2.3 Maryland_7: 2.3 _
+Massachusetts_1: 1.6 Massachusetts_3: 2.0 Massachusetts_5: 1.5 Massachusetts_7: 1.2 _
+Michigan_1: 2.9 Michigan_3: 2.4 Michigan_5: 2.3 Michigan_7: 1.9 _
+Minnesota_1: 2.4 Minnesota_3: 1.6 Minnesota_5: 2.1 Minnesota_7: 1.8 _
+Mississippi_1: 1.4 Mississippi_3: 1.9 Mississippi_5: 1.9 Mississippi_7: 1.5 _
+Missouri_1: 2.0 Missouri_3: 2.5 Missouri_5: 1.9 Missouri_7: 2.6 _
+Montana_1: 2.2 Montana_3: 2.4 Montana_5: 1.2 Montana_7: 0.7 _
+Nebraska_1: 2.4 Nebraska_3: 2.1 Nebraska_5: 2.5 Nebraska_7: 1.6 _
+Nevada_1: 2.5 Nevada_3: 2.9 Nevada_5: 4.6 Nevada_7: 4.6 _
+New Hampshire_1: 2.1 New Hampshire_3: 2.2 New Hampshire_5: 1.9 New Hampshire_7: 1.6 _
+New Jersey_1: 2.3 New Jersey_3: 1.8 New Jersey_5: 1.7 New Jersey_7: 2.5 _
+New Mexico_1: 1.6 New Mexico_3: 0.8 New Mexico_5: 0.7 New Mexico_7: 2.6 _
+New York_1: 2.5 New York_3: 2.8 New York_5: 3.0 New York_7: 2.4 _
+North Carolina_1: 2.4 North Carolina_3: 2.5 North Carolina_5: 2.7 North Carolina_7: 2.4 _
+North Dakota_1: 2.0 North Dakota_3: 1.0 North Dakota_5: 1.5 North Dakota_7: 1.3 _
+Ohio_1: 3.5 Ohio_3: 3.0 Ohio_5: 1.8 Ohio_7: 2.6 _
+Oklahoma_1: 2.9 Oklahoma_3: 2.6 Oklahoma_5: 2.5 Oklahoma_7: 2.5 _
+Oregon_1: 3.1 Oregon_3: 1.9 Oregon_5: 1.9 Oregon_7: 1.5 _
+Pennsylvania_1: 1.9 Pennsylvania_3: 2.0 Pennsylvania_5: 2.2 Pennsylvania_7: 1.8 _
+Rhode Island_1: 3.0 Rhode Island_3: 2.2 Rhode Island_5: 2.0 Rhode Island_7: 1.8 _
+South Carolina_1: 2.9 South Carolina_3: 3.9 South Carolina_5: 3.1 South Carolina_7: 3.1 _
+South Dakota_1: 1.3 South Dakota_3: 1.7 South Dakota_5: 2.6 South Dakota_7: 1.5 _
+Tennessee_1: 3.6 Tennessee_3: 3.4 Tennessee_5: 1.8 Tennessee_7: 2.3 _
+Texas_1: 2.1 Texas_3: 1.9 Texas_5: 1.6 Texas_7: 1.8 _
+Utah_1: 1.8 Utah_3: 1.6 Utah_5: 2.6 Utah_7: 1.7 _
+Vermont_1: 1.4 Vermont_3: 1.5 Vermont_5: 1.6 Vermont_7: 2.3 _
+Virginia_1: 2.1 Virginia_3: 2.1 Virginia_5: 2.7 Virginia_7: 1.7 _
+Washington_1: 2.3 Washington_3: 2.3 Washington_5: 2.6 Washington_7: 2.0 _
+West Virginia_1: 2.4 West Virginia_3: 2.7 West Virginia_5: 1.9 West Virginia_7: 2.4 _
+Wisconsin_1: 1.8 Wisconsin_3: 1.9 Wisconsin_5: 2.5 Wisconsin_7: 2.3 _
+Wyoming_1: 1.3 Wyoming_3: 1.5 Wyoming_5: 1.4 Wyoming_7: 0.8 _
+_
+State_1: Margin of Error State_3: Margin of Error State_1: First State_3: Third State_1: Quarter State_3: Quarter State_1: 2010 State_3: 2010 _
+Alabama_1: 3.1 Alabama_3: 3.3 Alabama_5: 2.9 Alabama_7: 2.4 _
+Alaska_1: 1.6 Alaska_3: 1.6 Alaska_5: 2.3 Alaska_7: 2.2 _
+Arizona_1: 4.0 Arizona_3: 2.6 Arizona_5: 2.8 Arizona_7: 3.3 _
+Arkansas_1: 2.5 Arkansas_3: 3.3 Arkansas_5: 3.7 Arkansas_7: 3.0 _
+California_1: 2.4 California_3: 2.8 California_5: 2.3 California_7: 2.6 _
+Colorado_1: 2.8 Colorado_3: 3.1 Colorado_5: 2.8 Colorado_7: 2.2 _
+Connecticut_1: 1.7 Connecticut_3: 1.3 Connecticut_5: 1.6 Connecticut_7: 2.4 _
+Delaware_1: 2.3 Delaware_3: 2.6 Delaware_5: 2.0 Delaware_7: 2.6 _
+District of Columbia_1: 3.4 District of Columbia_3: 1.6 District of Columbia_5: 1.7 District of Columbia_7: 2.6 _
+Florida_1: 4.7 Florida_3: 4.4 Florida_5: 4.7 Florida_7: 4.2 _
+Georgia_1: 2.4 Georgia_3: 3.7 Georgia_5: 2.6 Georgia_7: 3.0 _
+Hawaii_1: 3.0 Hawaii_3: 1.8 Hawaii_5: 1.6 Hawaii_7: 1.2 _
+Idaho_1: 2.6 Idaho_3: 3.6 Idaho_5: 3.3 Idaho_7: 3.6 _
+Illinois_1: 2.7 Illinois_3: 2.7 Illinois_5: 2.9 Illinois_7: 3.2 _
+Indiana_1: 3.2 Indiana_3: 2.7 Indiana_5: 2.8 Indiana_7: 3.3 _
+Iowa_1: 2.4 Iowa_3: 1.6 Iowa_5: 2.2 Iowa_7: 1.9 _
+Kansas_1: 2.1 Kansas_3: 2.2 Kansas_5: 2.5 Kansas_7: 2.9 _
+Kentucky_1: 1.6 Kentucky_3: 1.8 Kentucky_5: 2.7 Kentucky_7: 2.7 _
+Louisiana_1: 1.4 Louisiana_3: 1.4 Louisiana_5: 1.5 Louisiana_7: 1.6 _
+Maine_1: 2.1 Maine_3: 1.7 Maine_5: 2.4 Maine_7: 2.8 _
+Maryland_1: 2.6 Maryland_3: 2.8 Maryland_5: 2.9 Maryland_7: 3.0 _
+Massachusetts_1: 1.5 Massachusetts_3: 1.0 Massachusetts_5: 1.1 Massachusetts_7: 1.3 _
+Michigan_1: 3.0 Michigan_3: 2.7 Michigan_5: 2.7 Michigan_7: 2.6 _
+Minnesota_1: 1.7 Minnesota_3: 2.0 Minnesota_5: 1.8 Minnesota_7: 2.6 _
+Mississippi_1: 2.7 Mississippi_3: 1.5 Mississippi_5: 2.3 Mississippi_7: 2.6 _
+Missouri_1: 2.3 Missouri_3: 2.4 Missouri_5: 2.4 Missouri_7: 2.8 _
+Montana_1: 1.3 Montana_3: 1.7 Montana_5: 1.6 Montana_7: 2.0 _
+Nebraska_1: 1.7 Nebraska_3: 2.3 Nebraska_5: 3.0 Nebraska_7: 3.0 _
+Nevada_1: 4.1 Nevada_3: 4.4 Nevada_5: 4.7 Nevada_7: 4.6 _
+New Hampshire_1: 1.5 New Hampshire_3: 1.9 New Hampshire_5: 1.6 New Hampshire_7: 1.6 _
+New Jersey_1: 1.4 New Jersey_3: 1.3 New Jersey_5: 1.6 New Jersey_7: 2.0 _
+New Mexico_1: 1.5 New Mexico_3: 2.0 New Mexico_5: 1.6 New Mexico_7: 2.2 _
+New York_1: 2.4 New York_3: 1.7 New York_5: 1.8 New York_7: 2.5 _
+North Carolina_1: 4.2 North Carolina_3: 3.9 North Carolina_5: 2.6 North Carolina_7: 2.8 _
+North Dakota_1: 1.4 North Dakota_3: 1.4 North Dakota_5: 1.3 North Dakota_7: 1.9 _
+Ohio_1: 3.3 Ohio_3: 3.4 Ohio_5: 3.3 Ohio_7: 3.2 _
+Oklahoma_1: 1.8 Oklahoma_3: 2.3 Oklahoma_5: 1.5 Oklahoma_7: 2.1 _
+Oregon_1: 3.3 Oregon_3: 3.0 Oregon_5: 3.0 Oregon_7: 3.8 _
+Pennsylvania_1: 1.6 Pennsylvania_3: 1.3 Pennsylvania_5: 1.6 Pennsylvania_7: 1.8 _
+Rhode Island_1: 1.6 Rhode Island_3: 1.6 Rhode Island_5: 2.2 Rhode Island_7: 1.8 _
+South Carolina_1: 3.5 South Carolina_3: 3.6 South Carolina_5: 2.7 South Carolina_7: 2.8 _
+South Dakota_1: 1.6 South Dakota_3: 1.2 South Dakota_5: 1.9 South Dakota_7: 1.3 _
+Tennessee_1: 2.3 Tennessee_3: 2.6 Tennessee_5: 2.1 Tennessee_7: 3.4 _
+Texas_1: 2.0 Texas_3: 1.9 Texas_5: 1.9 Texas_7: 2.1 _
+Utah_1: 2.4 Utah_3: 2.1 Utah_5: 2.0 Utah_7: 1.4 _
+Vermont_1: 2.1 Vermont_3: 1.9 Vermont_5: 1.5 Vermont_7: 2.1 _
+Virginia_1: 1.9 Virginia_3: 2.0 Virginia_5: 2.8 Virginia_7: 2.5 _
+Washington_1: 3.0 Washington_3: 2.2 Washington_5: 2.9 Washington_7: 2.7 _
+West Virginia_1: 1.9 West Virginia_3: 3.0 West Virginia_5: 2.0 West Virginia_7: 1.6 _
+Wisconsin_1: 1.2 Wisconsin_3: 1.7 Wisconsin_5: 1.9 Wisconsin_7: 1.6 _
+Wyoming_1: 2.1 Wyoming_3: 1.3 Wyoming_5: 2.1 Wyoming_7: 2.3 _
+_
+State_1: Margin of Error State_3: Margin of Error State_1: First State_3: Third State_1: Quarter State_3: Quarter State_1: 2009 State_3: 2009 _
+Alabama_1: 2.8 Alabama_3: 3.1 Alabama_5: 3.0 Alabama_7: 3.1 _
+Alaska_1: 1.1 Alaska_3: 0.9 Alaska_5: 2.4 Alaska_7: 1.8 _
+Arizona_1: 3.1 Arizona_3: 3.9 Arizona_5: 3.0 Arizona_7: 3.7 _
+Arkansas_1: 3.6 Arkansas_3: 2.8 Arkansas_5: 3.7 Arkansas_7: 3.0 _
+California_1: 2.8 California_3: 1.8 California_5: 2.1 California_7: 2.3 _
+Colorado_1: 3.4 Colorado_3: 3.0 Colorado_5: 2.8 Colorado_7: 2.8 _
+Connecticut_1: 1.5 Connecticut_3: 1.8 Connecticut_5: 1.7 Connecticut_7: 1.6 _
+Delaware_1: 2.6 Delaware_3: 2.1 Delaware_5: 2.4 Delaware_7: 2.5 _
+District of Columbia_1: 3.2 District of Columbia_3: 3.8 District of Columbia_5: 2.2 District of Columbia_7: 3.8 _
+Florida_1: 5.0 Florida_3: 4.0 Florida_5: 4.2 Florida_7: 4.1 _
+Georgia_1: 3.8 Georgia_3: 3.7 Georgia_5: 3.7 Georgia_7: 3.4 _
+Hawaii_1: 1.4 Hawaii_3: 1.7 Hawaii_5: 2.0 Hawaii_7: 2.3 _
+Idaho_1: 2.9 Idaho_3: 2.3 Idaho_5: 2.6 Idaho_7: 2.8 _
+Illinois_1: 3.5 Illinois_3: 2.3 Illinois_5: 1.8 Illinois_7: 2.6 _
+Indiana_1: 2.3 Indiana_3: 1.8 Indiana_5: 2.7 Indiana_7: 3.1 _
+Iowa_1: 1.4 Iowa_3: 1.7 Iowa_5: 1.2 Iowa_7: 1.9 _
+Kansas_1: 2.9 Kansas_3: 2.8 Kansas_5: 2.7 Kansas_7: 3.5 _
+Kentucky_1: 2.1 Kentucky_3: 2.6 Kentucky_5: 3.3 Kentucky_7: 2.5 _
+Louisiana_1: 1.4 Louisiana_3: 1.3 Louisiana_5: 1.0 Louisiana_7: 2.2 _
+Maine_1: 2.1 Maine_3: 2.3 Maine_5: 2.4 Maine_7: 1.6 _
+Maryland_1: 2.7 Maryland_3: 2.1 Maryland_5: 2.1 Maryland_7: 2.8 _
+Massachusetts_1: 1.8 Massachusetts_3: 1.5 Massachusetts_5: 1.1 Massachusetts_7: 1.1 _
+Michigan_1: 3.0 Michigan_3: 3.6 Michigan_5: 3.2 Michigan_7: 3.8 _
+Minnesota_1: 2.6 Minnesota_3: 2.4 Minnesota_5: 2.1 Minnesota_7: 2.0 _
+Mississippi_1: 2.1 Mississippi_3: 1.0 Mississippi_5: 1.3 Mississippi_7: 3.4 _
+Missouri_1: 2.5 Missouri_3: 2.0 Missouri_5: 2.6 Missouri_7: 2.0 _
+Montana_1: 2.5 Montana_3: 3.9 Montana_5: 2.7 Montana_7: 1.9 _
+Nebraska_1: 1.8 Nebraska_3: 1.5 Nebraska_5: 1.6 Nebraska_7: 1.9 _
+Nevada_1: 4.8 Nevada_3: 5.2 Nevada_5: 3.8 Nevada_7: 4.3 _
+New Hampshire_1: 2.0 New Hampshire_3: 1.7 New Hampshire_5: 2.0 New Hampshire_7: 1.5 _
+New Jersey_1: 1.5 New Jersey_3: 2.6 New Jersey_5: 2.6 New Jersey_7: 2.5 _
+New Mexico_1: 2.2 New Mexico_3: 2.4 New Mexico_5: 2.1 New Mexico_7: 0.9 _
+New York_1: 2.5 New York_3: 2.3 New York_5: 2.2 New York_7: 2.4 _
+North Carolina_1: 3.6 North Carolina_3: 3.0 North Carolina_5: 4.2 North Carolina_7: 3.3 _
+North Dakota_1: 1.1 North Dakota_3: 2.0 North Dakota_5: 2.9 North Dakota_7: 1.0 _
+Ohio_1: 3.0 Ohio_3: 2.7 Ohio_5: 3.6 Ohio_7: 3.6 _
+Oklahoma_1: 3.0 Oklahoma_3: 3.1 Oklahoma_5: 2.5 Oklahoma_7: 2.0 _
+Oregon_1: 3.5 Oregon_3: 2.8 Oregon_5: 2.9 Oregon_7: 4.0 _
+Pennsylvania_1: 1.6 Pennsylvania_3: 1.5 Pennsylvania_5: 2.0 Pennsylvania_7: 1.5 _
+Rhode Island_1: 2.5 Rhode Island_3: 1.7 Rhode Island_5: 1.7 Rhode Island_7: 2.8 _
+South Carolina_1: 1.9 South Carolina_3: 2.6 South Carolina_5: 3.5 South Carolina_7: 4.0 _
+South Dakota_1: 1.5 South Dakota_3: 2.0 South Dakota_5: 1.6 South Dakota_7: 0.7 _
+Tennessee_1: 2.0 Tennessee_3: 1.9 Tennessee_5: 2.9 Tennessee_7: 3.1 _
+Texas_1: 2.2 Texas_3: 1.8 Texas_5: 1.5 Texas_7: 2.0 _
+Utah_1: 1.3 Utah_3: 2.2 Utah_5: 2.0 Utah_7: 2.0 _
+Vermont_1: 1.0 Vermont_3: 1.6 Vermont_5: 1.5 Vermont_7: 1.4 _
+Virginia_1: 2.5 Virginia_3: 2.9 Virginia_5: 1.9 Virginia_7: 1.8 _
+Washington_1: 2.8 Washington_3: 2.2 Washington_5: 2.5 Washington_7: 3.0 _
+West Virginia_1: 1.7 West Virginia_3: 1.9 West Virginia_5: 1.5 West Virginia_7: 2.7 _
+Wisconsin_1: 2.1 Wisconsin_3: 1.6 Wisconsin_5: 2.5 Wisconsin_7: 2.5 _
+Wyoming_1: 2.3 Wyoming_3: 2.3 Wyoming_5: 1.7 Wyoming_7: 1.4 _
+_
+State_1: Margin of Error State_3: Margin of Error State_1: First State_3: Third State_1: Quarter State_3: Quarter State_1: 2008 State_3: 2008 _
+Alabama_1: 2.6 Alabama_3: 3.8 Alabama_5: 3.6 Alabama_7: 3.1 _
+Alaska_1: 2.2 Alaska_3: 2.3 Alaska_5: 1.7 Alaska_7: 1.6 _
+Arizona_1: 4.5 Arizona_3: 3.4 Arizona_5: 3.7 Arizona_7: 3.6 _
+Arkansas_1: 2.8 Arkansas_3: 2.4 Arkansas_5: 3.0 Arkansas_7: 3.4 _
+California_1: 3.3 California_3: 3.0 California_5: 2.9 California_7: 3.0 _
+Colorado_1: 3.9 Colorado_3: 3.2 Colorado_5: 2.5 Colorado_7: 2.7 _
+Connecticut_1: 2.4 Connecticut_3: 2.2 Connecticut_5: 2.5 Connecticut_7: 1.8 _
+Delaware_1: 2.6 Delaware_3: 2.5 Delaware_5: 2.2 Delaware_7: 2.4 _
+District of Columbia_1: 2.8 District of Columbia_3: 3.0 District of Columbia_5: 3.1 District of Columbia_7: 3.2 _
+Florida_1: 4.7 Florida_3: 4.7 Florida_5: 4.7 Florida_7: 4.5 _
+Georgia_1: 3.8 Georgia_3: 4.4 Georgia_5: 4.6 Georgia_7: 4.2 _
+Hawaii_1: 1.7 Hawaii_3: 1.6 Hawaii_5: 2.2 Hawaii_7: 1.5 _
+Idaho_1: 3.1 Idaho_3: 2.6 Idaho_5: 2.8 Idaho_7: 4.1 _
+Illinois_1: 2.3 Illinois_3: 2.7 Illinois_5: 3.5 Illinois_7: 4.1 _
+Indiana_1: 3.1 Indiana_3: 2.7 Indiana_5: 3.0 Indiana_7: 2.4 _
+Iowa_1: 2.7 Iowa_3: 2.6 Iowa_5: 2.2 Iowa_7: 2.2 _
+Kansas_1: 1.5 Kansas_3: 2.3 Kansas_5: 2.1 Kansas_7: 2.2 _
+Kentucky_1: 3.1 Kentucky_3: 3.0 Kentucky_5: 2.8 Kentucky_7: 2.0 _
+Louisiana_1: 2.4 Louisiana_3: 2.0 Louisiana_5: 1.7 Louisiana_7: 1.7 _
+Maine_1: 2.0 Maine_3: 1.6 Maine_5: 3.0 Maine_7: 2.8 _
+Maryland_1: 3.4 Maryland_3: 2.6 Maryland_5: 1.8 Maryland_7: 2.6 _
+Massachusetts_1: 1.4 Massachusetts_3: 1.6 Massachusetts_5: 1.4 Massachusetts_7: 1.8 _
+Michigan_1: 4.2 Michigan_3: 3.6 Michigan_5: 3.7 Michigan_7: 3.4 _
+Minnesota_1: 2.9 Minnesota_3: 2.1 Minnesota_5: 2.7 Minnesota_7: 3.8 _
+Mississippi_1: 2.2 Mississippi_3: 2.2 Mississippi_5: 2.6 Mississippi_7: 3.5 _
+Missouri_1: 2.6 Missouri_3: 2.4 Missouri_5: 2.8 Missouri_7: 2.6 _
+Montana_1: 2.1 Montana_3: 2.1 Montana_5: 2.2 Montana_7: 1.9 _
+Nebraska_1: 2.5 Nebraska_3: 3.2 Nebraska_5: 2.0 Nebraska_7: 1.7 _
+Nevada_1: 5.5 Nevada_3: 6.0 Nevada_5: 5.3 Nevada_7: 4.5 _
+New Hampshire_1: 2.1 New Hampshire_3: 1.6 New Hampshire_5: 2.3 New Hampshire_7: 1.3 _
+New Jersey_1: 1.0 New Jersey_3: 1.6 New Jersey_5: 2.2 New Jersey_7: 1.7 _
+New Mexico_1: 2.1 New Mexico_3: 2.0 New Mexico_5: 2.2 New Mexico_7: 1.5 _
+New York_1: 1.9 New York_3: 2.1 New York_5: 2.0 New York_7: 2.3 _
+North Carolina_1: 3.1 North Carolina_3: 3.2 North Carolina_5: 2.9 North Carolina_7: 3.4 _
+North Dakota_1: 1.1 North Dakota_3: 1.8 North Dakota_5: 2.0 North Dakota_7: 0.5 _
+Ohio_1: 3.8 Ohio_3: 3.2 Ohio_5: 2.3 Ohio_7: 2.4 _
+Oklahoma_1: 1.7 Oklahoma_3: 2.4 Oklahoma_5: 3.3 Oklahoma_7: 3.3 _
+Oregon_1: 3.0 Oregon_3: 1.3 Oregon_5: 1.8 Oregon_7: 2.1 _
+Pennsylvania_1: 2.8 Pennsylvania_3: 2.0 Pennsylvania_5: 2.3 Pennsylvania_7: 2.6 _
+Rhode Island_1: 2.0 Rhode Island_3: 1.8 Rhode Island_5: 1.9 Rhode Island_7: 2.6 _
+South Carolina_1: 3.2 South Carolina_3: 3.5 South Carolina_5: 2.9 South Carolina_7: 2.9 _
+South Dakota_1: 0.9 South Dakota_3: 1.1 South Dakota_5: 1.9 South Dakota_7: 1.6 _
+Tennessee_1: 3.3 Tennessee_3: 2.3 Tennessee_5: 3.5 Tennessee_7: 2.7 _
+Texas_1: 2.5 Texas_3: 2.2 Texas_5: 2.0 Texas_7: 2.4 _
+Utah_1: 2.1 Utah_3: 1.5 Utah_5: 2.4 Utah_7: 1.9 _
+Vermont_1: 1.1 Vermont_3: 1.5 Vermont_5: 1.7 Vermont_7: 2.1 _
+Virginia_1: 2.5 Virginia_3: 3.3 Virginia_5: 2.4 Virginia_7: 2.3 _
+Washington_1: 1.4 Washington_3: 2.0 Washington_5: 2.5 Washington_7: 1.9 _
+West Virginia_1: 3.1 West Virginia_3: 2.1 West Virginia_5: 1.3 West Virginia_7: 2.1 _
+Wisconsin_1: 1.4 Wisconsin_3: 1.4 Wisconsin_5: 2.8 Wisconsin_7: 2.7 _
+Wyoming_1: 1.7 Wyoming_3: 1.6 Wyoming_5: 1.8 Wyoming_7: 1.3 _
+_
+State_1: Margin of Error State_3: Margin of Error State_1: First State_3: Third State_1: Quarter State_3: Quarter State_1: 2007 State_3: 2007 _
+Alabama_1: 3.2 Alabama_3: 3.8 Alabama_5: 2.4 Alabama_7: 2.3 _
+Alaska_1: 3.0 Alaska_3: 2.5 Alaska_5: 3.0 Alaska_7: 1.9 _
+Arizona_1: 3.7 Arizona_3: 2.8 Arizona_5: 4.2 Arizona_7: 4.6 _
+Arkansas_1: 3.0 Arkansas_3: 2.4 Arkansas_5: 1.8 Arkansas_7: 1.7 _
+California_1: 2.5 California_3: 2.2 California_5: 2.3 California_7: 2.3 _
+Colorado_1: 3.9 Colorado_3: 2.7 Colorado_5: 2.7 Colorado_7: 3.1 _
+Connecticut_1: 2.1 Connecticut_3: 2.3 Connecticut_5: 1.9 Connecticut_7: 2.9 _
+Delaware_1: 2.8 Delaware_3: 2.3 Delaware_5: 3.0 Delaware_7: 3.2 _
+District of Columbia_1: 3.5 District of Columbia_3: 4.1 District of Columbia_5: 2.8 District of Columbia_7: 2.6 _
+Florida_1: 5.4 Florida_3: 5.3 Florida_5: 5.0 Florida_7: 4.8 _
+Georgia_1: 3.3 Georgia_3: 3.5 Georgia_5: 4.4 Georgia_7: 4.1 _
+Hawaii_1: 1.8 Hawaii_3: 2.0 Hawaii_5: 1.9 Hawaii_7: 1.1 _
+Idaho_1: 2.6 Idaho_3: 2.5 Idaho_5: 3.5 Idaho_7: 2.7 _
+Illinois_1: 2.4 Illinois_3: 2.4 Illinois_5: 2.4 Illinois_7: 3.1 _
+Indiana_1: 3.6 Indiana_3: 2.5 Indiana_5: 3.1 Indiana_7: 3.4 _
+Iowa_1: 3.1 Iowa_3: 3.2 Iowa_5: 3.0 Iowa_7: 2.4 _
+Kansas_1: 1.8 Kansas_3: 1.3 Kansas_5: 2.4 Kansas_7: 1.9 _
+Kentucky_1: 2.6 Kentucky_3: 3.5 Kentucky_5: 2.5 Kentucky_7: 2.6 _
+Louisiana_1: 1.9 Louisiana_3: 3.0 Louisiana_5: 2.8 Louisiana_7: 2.3 _
+Maine_1: 2.0 Maine_3: 2.2 Maine_5: 2.9 Maine_7: 2.8 _
+Maryland_1: 2.2 Maryland_3: 3.1 Maryland_5: 2.9 Maryland_7: 2.7 _
+Massachusetts_1: 1.3 Massachusetts_3: 1.6 Massachusetts_5: 2.1 Massachusetts_7: 1.8 _
+Michigan_1: 4.2 Michigan_3: 3.6 Michigan_5: 3.3 Michigan_7: 4.1 _
+Minnesota_1: 2.4 Minnesota_3: 3.1 Minnesota_5: 2.7 Minnesota_7: 3.1 _
+Mississippi_1: 1.9 Mississippi_3: 1.3 Mississippi_5: 1.5 Mississippi_7: 1.1 _
+Missouri_1: 2.3 Missouri_3: 1.9 Missouri_5: 1.9 Missouri_7: 2.5 _
+Montana_1: 1.6 Montana_3: 1.2 Montana_5: 1.2 Montana_7: 1.7 _
+Nebraska_1: 3.0 Nebraska_3: 2.4 Nebraska_5: 2.1 Nebraska_7: 2.5 _
+Nevada_1: 4.1 Nevada_3: 4.1 Nevada_5: 5.1 Nevada_7: 5.3 _
+New Hampshire_1: 2.2 New Hampshire_3: 1.9 New Hampshire_5: 1.8 New Hampshire_7: 1.7 _
+New Jersey_1: 1.8 New Jersey_3: 1.6 New Jersey_5: 1.6 New Jersey_7: 1.4 _
+New Mexico_1: 2.4 New Mexico_3: 2.8 New Mexico_5: 3.3 New Mexico_7: 2.6 _
+New York_1: 2.1 New York_3: 2.0 New York_5: 2.1 New York_7: 2.4 _
+North Carolina_1: 3.0 North Carolina_3: 2.2 North Carolina_5: 1.9 North Carolina_7: 2.6 _
+North Dakota_1: 0.9 North Dakota_3: 1.3 North Dakota_5: 1.7 North Dakota_7: 1.9 _
+Ohio_1: 3.0 Ohio_3: 3.2 Ohio_5: 2.8 Ohio_7: 3.8 _
+Oklahoma_1: 2.3 Oklahoma_3: 2.5 Oklahoma_5: 2.8 Oklahoma_7: 2.0 _
+Oregon_1: 1.4 Oregon_3: 1.9 Oregon_5: 2.3 Oregon_7: 2.9 _
+Pennsylvania_1: 2.1 Pennsylvania_3: 2.0 Pennsylvania_5: 1.9 Pennsylvania_7: 2.4 _
+Rhode Island_1: 1.1 Rhode Island_3: 1.2 Rhode Island_5: 1.4 Rhode Island_7: 2.2 _
+South Carolina_1: 3.3 South Carolina_3: 3.2 South Carolina_5: 3.6 South Carolina_7: 2.4 _
+South Dakota_1: 1.7 South Dakota_3: 1.6 South Dakota_5: 2.1 South Dakota_7: 1.6 _
+Tennessee_1: 2.0 Tennessee_3: 1.8 Tennessee_5: 1.9 Tennessee_7: 2.8 _
+Texas_1: 2.5 Texas_3: 2.3 Texas_5: 2.7 Texas_7: 2.3 _
+Utah_1: 3.3 Utah_3: 2.0 Utah_5: 1.7 Utah_7: 1.2 _
+Vermont_1: 0.6 Vermont_3: 0.7 Vermont_5: 1.6 Vermont_7: 1.3 _
+Virginia_1: 3.9 Virginia_3: 2.2 Virginia_5: 2.5 Virginia_7: 1.7 _
+Washington_1: 1.5 Washington_3: 1.4 Washington_5: 1.2 Washington_7: 1.7 _
+West Virginia_1: 1.6 West Virginia_3: 1.5 West Virginia_5: 1.5 West Virginia_7: 1.5 _
+Wisconsin_1: 1.8 Wisconsin_3: 1.6 Wisconsin_5: 1.4 Wisconsin_7: 2.1 _
+Wyoming_1: 1.3 Wyoming_3: 1.6 Wyoming_5: 1.8 Wyoming_7: 2.1 _
+_
+State_1: Margin of Error State_3: Margin of Error State_1: First State_3: Third State_1: Quarter State_3: Quarter State_1: 2006 State_3: 2006 _
+Alabama_1: 2.2 Alabama_3: 2.3 Alabama_5: 3.7 Alabama_7: 2.8 _
+Alaska_1: 1.9 Alaska_3: 1.2 Alaska_5: 2.1 Alaska_7: 1.7 _
+Arizona_1: 3.1 Arizona_3: 3.2 Arizona_5: 2.3 Arizona_7: 3.4 _
+Arkansas_1: 1.7 Arkansas_3: 1.3 Arkansas_5: 1.3 Arkansas_7: 3.2 _
+California_1: 1.3 California_3: 1.9 California_5: 2.3 California_7: 2.2 _
+Colorado_1: 2.8 Colorado_3: 2.1 Colorado_5: 2.6 Colorado_7: 4.2 _
+Connecticut_1: 1.3 Connecticut_3: 2.5 Connecticut_5: 2.6 Connecticut_7: 2.1 _
+Delaware_1: 2.3 Delaware_3: 2.2 Delaware_5: 2.5 Delaware_7: 3.5 _
+District of Columbia_1: 2.8 District of Columbia_3: 3.8 District of Columbia_5: 3.8 District of Columbia_7: 4.3 _
+Florida_1: 3.2 Florida_3: 4.0 Florida_5: 4.9 Florida_7: 4.9 _
+Georgia_1: 2.7 Georgia_3: 3.3 Georgia_5: 3.7 Georgia_7: 4.0 _
+Hawaii_1: 1.2 Hawaii_3: 0.6 Hawaii_5: 1.0 Hawaii_7: 1.3 _
+Idaho_1: 2.2 Idaho_3: 2.5 Idaho_5: 2.6 Idaho_7: 1.7 _
+Illinois_1: 2.2 Illinois_3: 1.7 Illinois_5: 2.3 Illinois_7: 2.9 _
+Indiana_1: 2.2 Indiana_3: 3.0 Indiana_5: 4.4 Indiana_7: 3.1 _
+Iowa_1: 2.7 Iowa_3: 2.9 Iowa_5: 2.6 Iowa_7: 2.4 _
+Kansas_1: 2.7 Kansas_3: 1.8 Kansas_5: 1.7 Kansas_7: 2.2 _
+Kentucky_1: 2.5 Kentucky_3: 3.6 Kentucky_5: 4.0 Kentucky_7: 3.6 _
+Louisiana_1: 1.2 Louisiana_3: 1.3 Louisiana_5: 1.2 Louisiana_7: 1.8 _
+Maine_1: 2.1 Maine_3: 1.6 Maine_5: 1.5 Maine_7: 2.3 _
+Maryland_1: 1.2 Maryland_3: 1.8 Maryland_5: 2.4 Maryland_7: 2.9 _
+Massachusetts_1: 1.0 Massachusetts_3: 2.3 Massachusetts_5: 2.2 Massachusetts_7: 1.8 _
+Michigan_1: 3.1 Michigan_3: 3.3 Michigan_5: 3.0 Michigan_7: 4.3 _
+Minnesota_1: 2.0 Minnesota_3: 2.0 Minnesota_5: 2.0 Minnesota_7: 2.2 _
+Mississippi_1: 0.4 Mississippi_3: 1.9 Mississippi_5: 1.8 Mississippi_7: 2.2 _
+Missouri_1: 3.1 Missouri_3: 2.6 Missouri_5: 2.7 Missouri_7: 2.6 _
+Montana_1: 1.5 Montana_3: 2.7 Montana_5: 2.0 Montana_7: 1.4 _
+Nebraska_1: 2.4 Nebraska_3: 2.7 Nebraska_5: 2.1 Nebraska_7: 3.2 _
+Nevada_1: 2.6 Nevada_3: 2.8 Nevada_5: 3.5 Nevada_7: 3.1 _
+New Hampshire_1: 1.6 New Hampshire_3: 1.3 New Hampshire_5: 1.4 New Hampshire_7: 1.4 _
+New Jersey_1: 1.1 New Jersey_3: 1.7 New Jersey_5: 1.4 New Jersey_7: 2.3 _
+New Mexico_1: 1.5 New Mexico_3: 1.6 New Mexico_5: 1.7 New Mexico_7: 2.2 _
+New York_1: 1.6 New York_3: 1.7 New York_5: 1.6 New York_7: 2.1 _
+North Carolina_1: 2.8 North Carolina_3: 1.9 North Carolina_5: 1.8 North Carolina_7: 2.5 _
+North Dakota_1: 1.1 North Dakota_3: 1.1 North Dakota_5: 1.2 North Dakota_7: 0.8 _
+Ohio_1: 2.2 Ohio_3: 2.2 Ohio_5: 3.5 Ohio_7: 3.1 _
+Oklahoma_1: 2.5 Oklahoma_3: 3.3 Oklahoma_5: 2.1 Oklahoma_7: 1.8 _
+Oregon_1: 1.7 Oregon_3: 1.7 Oregon_5: 1.8 Oregon_7: 1.6 _
+Pennsylvania_1: 1.8 Pennsylvania_3: 1.0 Pennsylvania_5: 1.6 Pennsylvania_7: 2.0 _
+Rhode Island_1: 1.1 Rhode Island_3: 1.1 Rhode Island_5: 1.8 Rhode Island_7: 1.3 _
+South Carolina_1: 2.3 South Carolina_3: 2.3 South Carolina_5: 2.1 South Carolina_7: 3.0 _
+South Dakota_1: 2.1 South Dakota_3: 1.7 South Dakota_5: 2.2 South Dakota_7: 1.9 _
+Tennessee_1: 1.6 Tennessee_3: 2.1 Tennessee_5: 1.6 Tennessee_7: 1.9 _
+Texas_1: 2.2 Texas_3: 2.3 Texas_5: 1.9 Texas_7: 2.4 _
+Utah_1: 1.8 Utah_3: 1.7 Utah_5: 2.1 Utah_7: 2.7 _
+Vermont_1: 1.1 Vermont_3: 1.4 Vermont_5: 1.5 Vermont_7: 1.0 _
+Virginia_1: 1.6 Virginia_3: 1.4 Virginia_5: 2.6 Virginia_7: 1.6 _
+Washington_1: 0.9 Washington_3: 0.8 Washington_5: 2.1 Washington_7: 1.5 _
+West Virginia_1: 1.4 West Virginia_3: 2.5 West Virginia_5: 2.5 West Virginia_7: 1.5 _
+Wisconsin_1: 1.5 Wisconsin_3: 1.1 Wisconsin_5: 0.8 Wisconsin_7: 1.3 _
+Wyoming_1: 1.5 Wyoming_3: 1.8 Wyoming_5: 0.9 Wyoming_7: 1.1 _
+_
+State_1: Margin of Error State_3: Margin of Error State_1: First State_3: Third State_1: Quarter State_3: Quarter State_1: 2005.0 State_3: 2005.0 _
+Alabama_1: 2.4 Alabama_3: 1.8 Alabama_5: 2.1 Alabama_7: 1.9 _
+Alaska_1: 0.9 Alaska_3: 1.6 Alaska_5: 1.4 Alaska_7: 2.1 _
+Arizona_1: 1.0 Arizona_3: 1.6 Arizona_5: 1.2 Arizona_7: 0.8 _
+Arkansas_1: 2.1 Arkansas_3: 2.7 Arkansas_5: 2.0 Arkansas_7: 2.4 _
+California_1: 0.7 California_3: 1.0 California_5: 1.5 California_7: 1.7 _
+Colorado_1: 2.7 Colorado_3: 2.0 Colorado_5: 3.5 Colorado_7: 2.5 _
+Connecticut_1: 1.4 Connecticut_3: 1.2 Connecticut_5: 1.3 Connecticut_7: 1.2 _
+Delaware_1: 1.8 Delaware_3: 1.1 Delaware_5: 1.7 Delaware_7: 2.2 _
+District of Columbia_1: 1.4 District of Columbia_3: 1.9 District of Columbia_5: 1.7 District of Columbia_7: 3.1 _
+Florida_1: 1.5 Florida_3: 2.4 Florida_5: 1.9 Florida_7: 2.3 _
+Georgia_1: 2.1 Georgia_3: 2.9 Georgia_5: 2.9 Georgia_7: 2.8 _
+Hawaii_1: 0.7 Hawaii_3: 0.6 Hawaii_5: 0.4 Hawaii_7: 0.9 _
+Idaho_1: 1.4 Idaho_3: 1.6 Idaho_5: 1.2 Idaho_7: 1.3 _
+Illinois_1: 2.3 Illinois_3: 1.7 Illinois_5: 1.8 Illinois_7: 1.8 _
+Indiana_1: 3.0 Indiana_3: 1.8 Indiana_5: 2.3 Indiana_7: 2.7 _
+Iowa_1: 2.8 Iowa_3: 2.4 Iowa_5: 1.9 Iowa_7: 2.6 _
+Kansas_1: 2.9 Kansas_3: 3.4 Kansas_5: 2.4 Kansas_7: 2.2 _
+Kentucky_1: 2.3 Kentucky_3: 1.9 Kentucky_5: 2.1 Kentucky_7: 2.2 _
+Louisiana_1: 1.0 Louisiana_3: 1.4 Louisiana_5: 1.1 Louisiana_7: 1.9 _
+Maine_1: 1.5 Maine_3: 1.5 Maine_5: 1.2 Maine_7: 1.4 _
+Maryland_1: 1.0 Maryland_3: 1.1 Maryland_5: 1.4 Maryland_7: 1.7 _
+Massachusetts_1: 0.8 Massachusetts_3: 0.5 Massachusetts_5: 1.4 Massachusetts_7: 1.7 _
+Michigan_1: 2.0 Michigan_3: 2.1 Michigan_5: 3.6 Michigan_7: 3.1 _
+Minnesota_1: 1.1 Minnesota_3: 1.4 Minnesota_5: 1.4 Minnesota_7: 1.9 _
+Mississippi_1: 2.2 Mississippi_3: 1.8 Mississippi_5: 2.0 Mississippi_7: 1.1 _
+Missouri_1: 2.7 Missouri_3: 2.1 Missouri_5: 2.1 Missouri_7: 3.3 _
+Montana_1: 0.6 Montana_3: 0.9 Montana_5: 2.0 Montana_7: 1.1 _
+Nebraska_1: 2.3 Nebraska_3: 1.4 Nebraska_5: 1.3 Nebraska_7: 2.3 _
+Nevada_1: 3.6 Nevada_3: 3.8 Nevada_5: 2.4 Nevada_7: 2.3 _
+New Hampshire_1: 0.5 New Hampshire_3: 0.7 New Hampshire_5: 0.9 New Hampshire_7: 1.6 _
+New Jersey_1: 1.5 New Jersey_3: 1.6 New Jersey_5: 1.0 New Jersey_7: 0.8 _
+New Mexico_1: 2.1 New Mexico_3: 1.6 New Mexico_5: 0.8 New Mexico_7: 1.6 _
+New York_1: 2.7 New York_3: 1.4 New York_5: 1.6 New York_7: 2.2 _
+North Carolina_1: 2.6 North Carolina_3: 3.0 North Carolina_5: 2.3 North Carolina_7: 1.8 _
+North Dakota_1: 1.7 North Dakota_3: 1.3 North Dakota_5: 0.8 North Dakota_7: 1.4 _
+Ohio_1: 2.6 Ohio_3: 2.2 Ohio_5: 2.8 Ohio_7: 2.7 _
+Oklahoma_1: 2.1 Oklahoma_3: 2.3 Oklahoma_5: 2.7 Oklahoma_7: 2.7 _
+Oregon_1: 1.9 Oregon_3: 2.1 Oregon_5: 0.9 Oregon_7: 1.4 _
+Pennsylvania_1: 1.7 Pennsylvania_3: 1.5 Pennsylvania_5: 1.6 Pennsylvania_7: 1.5 _
+Rhode Island_1: 1.4 Rhode Island_3: 1.2 Rhode Island_5: 1.6 Rhode Island_7: 2.1 _
+South Carolina_1: 2.3 South Carolina_3: 2.2 South Carolina_5: 2.0 South Carolina_7: 1.9 _
+South Dakota_1: 1.6 South Dakota_3: 1.8 South Dakota_5: 2.3 South Dakota_7: 1.9 _
+Tennessee_1: 1.7 Tennessee_3: 1.6 Tennessee_5: 1.7 Tennessee_7: 1.8 _
+Texas_1: 2.2 Texas_3: 2.5 Texas_5: 3.0 Texas_7: 2.6 _
+Utah_1: 1.2 Utah_3: 1.6 Utah_5: 0.9 Utah_7: 2.6 _
+Vermont_1: 0.3 Vermont_3: 0.6 Vermont_5: 0.6 Vermont_7: 0.5 _
+Virginia_1: 0.9 Virginia_3: 1.2 Virginia_5: 1.8 Virginia_7: 1.4 _
+Washington_1: 1.2 Washington_3: 0.5 Washington_5: 0.8 Washington_7: 1.4 _
+West Virginia_1: 2.1 West Virginia_3: 2.0 West Virginia_5: 1.5 West Virginia_7: 1.2 _
+Wisconsin_1: 1.4 Wisconsin_3: 1.8 Wisconsin_5: 1.6 Wisconsin_7: 1.4 _
+Wyoming_1: 1.4 Wyoming_3: 1.2 Wyoming_5: 1.1 Wyoming_7: 0.9 _
+_
+_
+_
+_
+_
+_
+_
